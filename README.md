@@ -67,8 +67,11 @@ To support the client’s goal of increasing new customer acquisition:
 ## Files in This Repository
 
 Campaign_Data_Week1.xlsx # Marketing campaign dataset
+
 BCG_Campaign_Recommendation.pptx # Final consulting-style recommendation slide
+
 dashboard-preview.png # Visualization preview
+
 bcg-certificate.pdf # Completion certificate
 
 
